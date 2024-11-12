@@ -1,0 +1,9 @@
+
+tensorflow
+keras
+opencv-python
+pydicom
+numpy
+pandas
+matplotlib
+imgaug
