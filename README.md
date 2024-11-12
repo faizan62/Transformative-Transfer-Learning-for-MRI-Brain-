@@ -22,28 +22,9 @@ TransformativeTransferLearning_MRI/
     └── transformative_transfer_learning_model.h5
 ```
 
-## Requirements
-Install the required packages using:
-```
-pip install -r requirements.txt
-```
-
-## Usage
-1. **Data Preprocessing**:
-   - Use `data_preprocessing.py` to preprocess and augment the dataset.
-2. **Model Training**:
-   - Use `train.py` to train the model on the MRI dataset.
-3. **Evaluation**:
-   - Use `evaluate.py` (to be implemented) to evaluate the model.
-
-## Dataset
-The dataset used in this study includes MRI scans from the Nickparvar and Cheng datasets. Make sure to download and place the dataset in the `./data` directory.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Authors
-- Raja Waseem Anwar, Mohammad Abrar, Faizan Ullah, Sabir Shah
+This project is licensed under the MIT License. See the `LICENSE` file for more details
 
 ## Acknowledgements
 This project was funded by the German University of Technology in Muscat, Sultanate of Oman.
